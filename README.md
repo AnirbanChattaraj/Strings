@@ -44,16 +44,23 @@ Prepare for advanced topics and DSA
 
 ⚙️ Requirements:-
 Basic knowledge of C programming
+
 Understanding of arrays and loops
+
 Familiarity with standard input/output functions
-🚀 How to Use
+
+🚀 How to Use:-
 Solve problems in order (1 → 15)
+
 Focus on writing clean and efficient code
+
 Avoid using built-in string functions unless specified
+
 Test your code with edge cases
+
 📈 Outcome
 
-By completing these problems, you will:
+By completing these problems, you will:-
 
 Gain strong control over string manipulation in C
 Improve logical thinking and problem-solving skills
