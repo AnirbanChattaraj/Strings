@@ -12,22 +12,37 @@ Prepare for advanced topics and DSA
 1.Input and Output of a string using fgets()
 
 2.Find length of a string without using strlen()
+
 3.Count vowels, consonants, digits, and spaces
+
 4.Reverse a string without using built-in functions
+
 5.Check if a string is a palindrome
+
 🔹 Intermediate Level
 6.Copy one string to another without strcpy()
+
 7.Compare two strings without strcmp()
+
 8.Toggle case of each character in a string
+
 9.Remove newline character from input string
+
 10.Count number of words in a string
+
 🔹 Advanced Level (Pure String Handling)
+
 11.Remove all spaces from a string (in-place)
+
 12.Remove all occurrences of a specific character
+
 13.Replace all occurrences of a character with another
+
 14.Find the first non-repeating character (using loops only)
+
 15.Perform basic string compression (e.g., aaabbc → a3b2c1)
-⚙️ Requirements
+
+⚙️ Requirements:-
 Basic knowledge of C programming
 Understanding of arrays and loops
 Familiarity with standard input/output functions
